@@ -79,4 +79,4 @@ Setelah semua langkah instalasi dan konfigurasi di atas selesai:
 
 ---
 
-**Link Video Demo:** [Tulis link video YouTube atau repo Anda di sini]
+https://youtu.be/gp_C8sj0ths?si=SOq078kKKtzJ6QRa
